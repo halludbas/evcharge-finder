@@ -1,0 +1,40 @@
+{
+  "name": "evcharge-finder",
+  "version": "1.0.0",
+  "description": "Elektrikli araç şarj istasyonu bulucu uygulaması - VOLTLA benzeri",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.263.1",
+    "framer-motion": "^10.16.4",
+    "react-router-dom": "^6.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "vite": "^4.4.5",
+    "tailwindcss": "^3.3.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29"
+  },
+  "keywords": [
+    "electric vehicle",
+    "charging station",
+    "ev charger",
+    "voltla",
+    "elektrikli araç",
+    "şarj istasyonu"
+  ],
+  "author": "EV Charge Finder",
+  "license": "MIT"
+}
